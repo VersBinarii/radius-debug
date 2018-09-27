@@ -1,0 +1,10 @@
+[package]
+name = "radius-debug"
+version = "0.1.0"
+authors = ["Kris <kristhesavage@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+regex = "1"
+lazy_static = "1.1.0"
+clap = "2.32.0"
