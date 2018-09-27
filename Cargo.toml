@@ -7,6 +7,8 @@ publish = true
 description = "Simple helper to filter the noise when debbuging FreeRADIUS server."
 repository = "https://github.com/Caspinol/radius-debug"
 keywords = ["radius", "freeradius", "debug"]
+license = "MIT"
+license-file = "LICENSE.md"
 
 [dependencies]
 regex = "1"
