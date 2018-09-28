@@ -1,12 +1,12 @@
-Hello Radius user,
+#Hello FreeRADIUS user
 
 Do you find yourself overwhelmed by the radius debug output?
 
 Trying to keep up with with constantly escaping lines of text?
 
-Unable to find the request you're looking further?
+Unable to find the request you're looking for?
 
-Tired of the authentication packets creating noise for your authentication packets?
+Tired of the accounting packets creating noise for your authentication packets?
 
 Your nightmare is over!
 
@@ -20,13 +20,13 @@ What is is? You want specific pattern? Look no further...
 
 /usr/local/sbin/radiusd -X | radius-debug -t auth -p my_usernam and worry no more about missing your favourite Access-Accept.
 
-Get it now from: `https://github.com/Caspinol/radius-debug`
+##### Get it now from:
+
+`https://github.com/Caspinol/radius-debug`
 or
 `cargo install radius-debug`
 
-Terms and conditions apply.
-
-Certain terms and conditions my not apply.
+##### Usage
 
 ```
 FreeRADIUS-debug-helper 0.1.0
