@@ -5,12 +5,11 @@ authors = ["Kris <kristhesavage@gmail.com>"]
 edition = "2018"
 publish = true
 description = "Simple helper to filter the noise when debbuging FreeRADIUS server."
-repository = "https://github.com/Caspinol/radius-debug"
+repository = "https://github.com/VersBinarii/radius-debug"
 keywords = ["radius", "freeradius", "debug"]
 license = "MIT"
-license-file = "LICENSE.md"
 
 [dependencies]
-regex = "1"
-lazy_static = "1.1.0"
+regex = "1.3"
+lazy_static = "1.4.0"
 clap = "2.32.0"
