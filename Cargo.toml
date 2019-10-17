@@ -1,6 +1,6 @@
 [package]
 name = "radius-debug"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Kris <kristhesavage@gmail.com>"]
 edition = "2018"
 publish = true
@@ -8,6 +8,7 @@ description = "Simple helper to filter the noise when debbuging FreeRADIUS serve
 repository = "https://github.com/VersBinarii/radius-debug"
 keywords = ["radius", "freeradius", "debug"]
 license = "MIT"
+readme = "README.md"
 
 [dependencies]
 regex = "1.3"
