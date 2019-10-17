@@ -14,10 +14,3 @@ license-file = "LICENSE.md"
 regex = "1"
 lazy_static = "1.1.0"
 clap = "2.32.0"
-
-
-[badges]
-
-appveyor = { repository = "https://github.com/Caspinol/radius-debug", branch = "master", service = "github" }
-
-
